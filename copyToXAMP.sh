@@ -1,1 +1,2 @@
-sudo cp -R /Users/btholmes/Documents/github/AnalyticsWork/VersionControl/PBAnalytics /Applications/XAMPP/xamppfiles/htdocs
+me=$(whoami)
+sudo cp -R /Users/$me/Documents/GitHubRepos/Website/public_html /Applications/XAMPP/xamppfiles/htdocs/public_html
