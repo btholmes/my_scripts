@@ -2,7 +2,7 @@
  
 AIRPORT="en0"; #may be en0, use networksetup -listallhardwareports to check
 WIFI_NETWORK_NAME="$1"
-WIFI_PASSWORD=""
+WIFI_PASSWORD="$2"
  
 networksetup -setairportpower $AIRPORT off
 networksetup -setairportpower $AIRPORT on
