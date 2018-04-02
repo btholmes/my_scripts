@@ -5,7 +5,7 @@
 /Users/benholmes/Documents/GithubRepos/Ionic2
 /Users/benholmes/Documents/GithubRepos/ScavengerWithFriends
 /Users/benholmes/Documents/GithubRepos/Vue
-/Users/benholmes/Documents/GithubRepos/COMS311P1
+/Users/benholmes/Documents/GithubRepos/Classes
 /Users/benholmes/Documents/GithubRepos/Website
 /Users/benholmes/Documents/GithubRepos/Algorithms
 /Users/benholmes/Documents/GithubRepos/eclipse-workspace
@@ -23,9 +23,11 @@
 /Users/benholmes/Documents/GithubRepos/musicByMood
 /Users/benholmes/Documents/GithubRepos/UsefulShell
 /Users/benholmes/Documents/GithubRepos/Nomads
-/Users/benholmes/Documents/GithubRepos/.git
 /Users/benholmes/Documents/GithubRepos/School
 /Users/benholmes/Documents/GithubRepos/Ruby
 /Users/benholmes/Documents/GithubRepos/C-Memory-Game
 /Users/benholmes/Documents/GithubRepos/RaspberryPI
 /Users/benholmes/Documents/GithubRepos/Python-Keylogger
+/Users/benholmes/Documents/GithubRepos/Hackerrank-Solutions
+/Users/benholmes/Documents/GithubRepos/notes
+

@@ -1,5 +1,8 @@
 updateRepos.sh
 updateReposCopy.sh
+ReposLineByLine.txt
+repoLocations.txt
+aliases.md
 
 # Compiled source #
 ###################

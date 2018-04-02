@@ -27,3 +27,6 @@ https://github.com/btholmes/Ruby.git
 https://github.com/btholmes/Hackerrank-Solutions.git
 https://github.com/btholmes/UsefulShell.git
 https://github.com/btholmes/Convolutional_neural_network.git
+https://github.com/btholmes/eclipse-workspace.git
+https://github.com/btholmes/Classes.git
+https://github.com/btholmes/COMS311.git
