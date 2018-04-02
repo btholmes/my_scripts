@@ -1,8 +1,5 @@
 updateRepos.sh
-<<<<<<< HEAD
 updateReposCopy.sh
-=======
->>>>>>> 6a4f8795505c5e0d54059a4bfbed374330846f4a
 
 # Compiled source #
 ###################
@@ -40,8 +37,5 @@ updateReposCopy.sh
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-<<<<<<< HEAD
 Thumbs.db
-=======
 Thumbs.db
->>>>>>> 6a4f8795505c5e0d54059a4bfbed374330846f4a
